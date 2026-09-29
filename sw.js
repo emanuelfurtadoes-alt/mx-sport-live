@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mx-sport-runtime-v13';
+const CACHE_NAME = 'mx-sport-runtime-v14';
 const BASE_PATH = new URL('./', self.registration.scope).pathname;
 const APP_SHELL = [
   BASE_PATH,
